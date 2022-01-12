@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__
+amazon_review_full_csv
+news_data
+glove.6B
+glove.6B.zip
+example.py
